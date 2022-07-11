@@ -1,0 +1,433 @@
+{
+    "Products": [
+        {
+            "id": 1,
+            "name": "Đầm Polo Nữ Đen Dáng Ôm Váy Nữ Ngắn Body Tinowear",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 57000,
+            "img": "https://cf.shopee.vn/file/838e4895cef1f1aff47ae6207d01d6a7",
+            "imgSelector": [
+                "https://cf.shopee.vn/file/959e1a32bb115728d01cd921c1ee7f03",
+                "https://cf.shopee.vn/file/ba733cc5ca8631d72bd9f11d037d1544",
+                "https://cf.shopee.vn/file/1d2ffe14a86fb77bf804da8ed8c62dbc",
+                "https://cf.shopee.vn/file/838e4895cef1f1aff47ae6207d01d6a7"
+            ],
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 100,
+            "sell": true
+        },
+        {
+            "id": 2,
+            "name": "Chân váy rút dây 2 bên chân váy ngắn nữ body nhún hông ulzzang MIVOSA CV01",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 38000,
+            "img": "https://cf.shopee.vn/file/01d8de35860834c09e3db56cc79dbe73",
+            "imgSelector": "['https://cf.shopee.vn/file/19b9ac2b9ece2702d202b9ac84e7c7da', 'https://cf.shopee.vn/file/29e683548efb844679047fb2d2ebb9ea', 'https://cf.shopee.vn/file/c03c90e343748ceca05eb3c585a3b8fb', 'https://cf.shopee.vn/file/833fd88611b483f76602434b8f6685e8']",
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 100,
+            "sell": false
+        },
+        {
+            "id": 3,
+            "name": "ĐẦM VÁY TRẮNG DÁNG NGẮN CÓ QUẦN TRONG * NINA *",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 169000,
+            "img": "https://cf.shopee.vn/file/38f982b9f38a43d119c60d6254eabef5",
+            "imgSelector": "['https://cf.shopee.vn/file/216990f3b091b16b963b5bfee327d53e', 'https://cf.shopee.vn/file/a8e9b207290b21f26643d9cf933ac034', 'https://cf.shopee.vn/file/6abadb4cae3f1b09ab03610fa9ccd92e', 'https://cf.shopee.vn/file/af62238ca8ecb93053209d1fe5c2f14c']",
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 100,
+            "sell": false
+        },
+        {
+            "id": 4,
+            "name": "Chân váy xếp ly to chân váy ngắn chân váy tennis siêu xinh",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 159000,
+            "img": "https://cf.shopee.vn/file/c8b6408d4de2460fef1252d1f6c6abf5",
+            "imgSelector": "['https://cf.shopee.vn/file/1f48672b7cdaf59042abd6b2c80a057b', 'https://cf.shopee.vn/file/8c77406ad9572faf4e51b5fdbddc764f', 'https://cf.shopee.vn/file/f0dbc1b4447797d2820ae3fa07ece9be', 'https://cf.shopee.vn/file/3fd449da4163278047f5830c6901fc93']",
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 100,
+            "sell": false
+        },
+        {
+            "id": 5,
+            "name": "Đầm Váy Cổ Vuông Xẻ Trước Tay Ngắn Thun Borip Henia",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 99000,
+            "img": "https://cf.shopee.vn/file/b38c2f930a64031d9b4cad4d73ded174",
+            "imgSelector": "['https://cf.shopee.vn/file/b38c2f930a64031d9b4cad4d73ded174', 'https://cf.shopee.vn/file/65093fe8edc72a7523751afd33ebc41f', 'https://cf.shopee.vn/file/54a23f0f79d42151d0c365c40334bc47', 'https://cf.shopee.vn/file/e10d1f136ee699b52616dcb0e56acf6b']",
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 100,
+            "sell": true
+        },
+        {
+            "id": 6,
+            "name": "Đầm Ôm Body Thun Dáng Suông Ngắn, Váy Body Cotton Zip Phong Cách Hàn Quốc 29 August",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 245000,
+            "img": "https://cf.shopee.vn/file/f7680e7896257a7cbae23aac1def8536",
+            "imgSelector": "['https://cf.shopee.vn/file/f7680e7896257a7cbae23aac1def8536', 'https://cf.shopee.vn/file/683875b35a70673fb404663ae666db41', 'https://cf.shopee.vn/file/e4d0e3b3c941d01a48bff2fce77aef69', 'https://cf.shopee.vn/file/5c198889c2ba7e66f3942d14d72c00e6']",
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 100,
+            "sell": false
+        },
+        {
+            "id": 7,
+            "name": "Áo thun nữ Unisex tay lỡ, form rộng Freesize",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 245000,
+            "img": "https://cf.shopee.vn/file/57533b1240a0608170d372e1b94eba90",
+            "imgSelector": "['https://cf.shopee.vn/file/eb2a8635fa0b7a37f4908a7d395cd79e', 'https://cf.shopee.vn/file/57533b1240a0608170d372e1b94eba90', 'https://cf.shopee.vn/file/d10fb7fa8628bd00efc593669cb8cfb6', 'https://cf.shopee.vn/file/57ac46da42e7c24b6f63e55b764e29e9']",
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 100,
+            "sell": true
+        },
+        {
+            "id": 8,
+            "name": "ÁO NƠ XINH TAY PHỒNG CỰC CHẤT / ÁO BẸT VAI NƠ TO / ÁO TAY BỒNG A30",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 245000,
+            "img": "https://cf.shopee.vn/file/165d978ccfa17f4f5237aac92ab1291f",
+            "imgSelector": "['https://cf.shopee.vn/file/ca2ddcbe742e52909db9eaa2aaa969f5', 'https://cf.shopee.vn/file/4b7cebe417a483a43d32b8298b4533de', 'https://cf.shopee.vn/file/99e7a0fe4e2703576e6e06e4a3d3b6b4', 'https://cf.shopee.vn/file/165d978ccfa17f4f5237aac92ab1291f']",
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 100,
+            "sell": false
+        },
+        {
+            "id": 9,
+            "name": "Áo croptop rút eo Essential HD6",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 245000,
+            "img": "https://cf.shopee.vn/file/a368974a836654a212875ea200511eda",
+            "imgSelector": "['https://cf.shopee.vn/file/878da49aebce26a36113e1866a2923d4', 'https://cf.shopee.vn/file/55a398645114335547d875827c8466fe', 'https://cf.shopee.vn/file/73be88ed765e9883234552c502ec48b0', 'https://cf.shopee.vn/file/55a398645114335547d875827c8466fe']",
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 100,
+            "sell": true
+        },
+        {
+            "id": 10,
+            "name": "ÁO PHÔNG POLO NỮ CỔ V PHỐI VIỀN ĐEN",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 245000,
+            "img": "https://cf.shopee.vn/file/daa0a84fc0371ea2b2edc3ca929fbd2a",
+            "imgSelector": "['https://cf.shopee.vn/file/574988287998c97f62577a7649ba7c40', 'https://cf.shopee.vn/file/a3b59af664464e47996e7a9d7c427bdf', 'https://cf.shopee.vn/file/2d39afc06f0907965a8653d15f6968be', 'https://cf.shopee.vn/file/d4e5b27c4f61cf4b1ecd5c4a87f97e4e']",
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 100,
+            "sell": true
+        },
+        {
+            "id": 11,
+            "name": "Áo sơ mi babydoll ren tơ form thụng dáng xòe áo sơ mi kiểu nữ",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 245000,
+            "img": "https://cf.shopee.vn/file/d869f50022bd051f87ddcd100222816a",
+            "imgSelector": "['https://cf.shopee.vn/file/d869f50022bd051f87ddcd100222816a', 'https://cf.shopee.vn/file/50cb9f0569b9605f0c405a28334aadf4', 'https://cf.shopee.vn/file/02c01d87fbfd080334b1cf04eab09545', 'https://cf.shopee.vn/file/8dfed0077b700d4b0c2e4950f2b33fe4']",
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 100,
+            "sell": false
+        },
+        {
+            "id": 12,
+            "name": "Áo thun tay ngắn lưng cao thời trang mùa hè cho nữ JL-TX-13",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 245000,
+            "img": "https://cf.shopee.vn/file/fc6ba73d1c6392ccd2324f3d470bfcc9",
+            "imgSelector": "['https://cf.shopee.vn/file/60a5a06b4bb0290d8922a68e9f1d39f8', 'https://cf.shopee.vn/file/0fbb16c6edc043f2c7298b5d4ddf3ebd', 'https://cf.shopee.vn/file/b96ebcd3d39adfbdb14c51dd4b675d65', 'https://cf.shopee.vn/file/a0d6000823f7a87acb2b3a76891981b8']",
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 100,
+            "sell": false
+        },
+        {
+            "id": 13,
+            "name": "Set Đồ áo Xanh Chữ Quần kaki sữa [FREESHIP]🌸 Áo thun tay lỡ nữ unisex quần kaki ống rộng Ulzzang",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 57000,
+            "img": "https://cf.shopee.vn/file/b7383212e4476353ed414770d443fb8d",
+            "imgSelector": [
+                "https://cf.shopee.vn/file/b7383212e4476353ed414770d443fb8d",
+                "https://cf.shopee.vn/file/96c038ee5636e26aefa2289780130209",
+                "https://cf.shopee.vn/file/d459c45e84f5b15046125b59054021be",
+                "https://cf.shopee.vn/file/91e69d6c7ede085f3eb5080025d8efae"
+            ],
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 100,
+            "sell": false
+        },
+        {
+            "id": 14,
+            "name": "Áo thun unisex nam nữ form rộng, áo phông tay lỡ form rộng",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 57000,
+            "img": "https://cf.shopee.vn/file/162c8b0f1351df0d9861add2f68f9db6",
+            "imgSelector": [
+                "https://cf.shopee.vn/file/162c8b0f1351df0d9861add2f68f9db6",
+                "https://cf.shopee.vn/file/e374ebc63a070f5d7ec437df8f383e9f",
+                "https://cf.shopee.vn/file/8b547feb88ab6e83ad52e9fe1259f23a",
+                "https://cf.shopee.vn/file/f2e5e05d64ac053730b50c853c52d890"
+            ],
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 100,
+            "sell": false
+        },
+        {
+            "id": 15,
+            "name": "Ao Sơ Mi Nữ 𝐂𝐂𝐇𝐀𝐓 Bấu Ly Bèo Nơ Cổ Chất Voan Cao Cấp Dáng Suông Phong Cách Trẻ Trung",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 57000,
+            "img": "https://cf.shopee.vn/file/0adbf6b824c25cfd113c3641a12bee0d",
+            "imgSelector": [
+                "https://cf.shopee.vn/file/0adbf6b824c25cfd113c3641a12bee0d",
+                "https://cf.shopee.vn/file/1df22a0b6a9d06580045aff06fbecc5e",
+                "https://cf.shopee.vn/file/d884c10d8e1e38674437c58d1135f4e6",
+                "https://cf.shopee.vn/file/1df22a0b6a9d06580045aff06fbecc5e"
+            ],
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 0,
+            "sell": false
+        },
+        {
+            "id": 16,
+            "name": "Áo phông sadboiz mặt mếu nhiều chữ",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 57000,
+            "img": "https://cf.shopee.vn/file/2c8fd543579c0d28bbcb6b5683abd8d1",
+            "imgSelector": [
+                "https://cf.shopee.vn/file/2c8fd543579c0d28bbcb6b5683abd8d1",
+                "https://cf.shopee.vn/file/fa1c6089ead4e886f5a1badcc36cb378",
+                "https://cf.shopee.vn/file/e60e76d55c0164f025a5f715fcc685e2",
+                "https://cf.shopee.vn/file/9dd91f99d589a854c2f72e78c4d7ae15"
+            ],
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 100,
+            "sell": false
+        },
+        {
+            "id": 17,
+            "name": "Áo thun nam nữ unisex tay lỡ, áo phông cotton from rộng AD69 Oversize",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 57000,
+            "img": "https://cf.shopee.vn/file/3f7fbc266959a8c2bb4c056073555957",
+            "imgSelector": [
+                "https://cf.shopee.vn/file/3f7fbc266959a8c2bb4c056073555957",
+                "https://cf.shopee.vn/file/394379193effe19dc58aff99e0c846b4",
+                "https://cf.shopee.vn/file/f78b76f2924d9ed1c8f4de918bd21c75",
+                "https://cf.shopee.vn/file/a1e51569f7a9a5acccbabe3940dd7c67"
+            ],
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 100,
+            "sell": false
+        },
+        {
+            "id": 18,
+            "name": "Áo thun tay lỡ, Áo phông tay lỡ Unisex form rộng Oversize MRTD",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 57000,
+            "img": "https://cf.shopee.vn/file/9dadf814c484d6e6543f6c3b9d896f6b",
+            "imgSelector": [
+                "https://cf.shopee.vn/file/9dadf814c484d6e6543f6c3b9d896f6b",
+                "https://cf.shopee.vn/file/e986a0a77799bc23bdff5108313640a3",
+                "https://cf.shopee.vn/file/906da960407bfb8255b0322faa77c68f",
+                "https://cf.shopee.vn/file/00f13546ea7f042912b4672fd0b14271"
+            ],
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 100,
+            "sell": true
+        },
+        {
+            "id": 19,
+            "name": "Áo thun croptop lệch vai nữ thiết kế by LYRA, chất thun zip co giãn dáng ôm kiểu dáng nữ tính-LWTAO050",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 57000,
+            "img": "https://cf.shopee.vn/file/89e87faec2443f7e790fd918bc199a87",
+            "imgSelector": [
+                "https://cf.shopee.vn/file/89e87faec2443f7e790fd918bc199a87",
+                "https://cf.shopee.vn/file/e2bf8230585a4b37e8680ed153cddeb4",
+                "https://cf.shopee.vn/file/4fc134ff820fdac919cebdf06910cc4e",
+                "https://cf.shopee.vn/file/151ec50b368eadb69584c1eded6f8e84"
+            ],
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 100,
+            "sell": false
+        },
+        {
+            "id": 20,
+            "name": "Áo sơ mi tay ngắn nam nữ unisex form rộng tay lỡ basic, chất vải đũi trơn Hàn cao cấp mịn chống nhăn, 2 túi, dễ phối đồ",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 57000,
+            "img": "https://cf.shopee.vn/file/7af161ea0b48686df851a2b114b33a04",
+            "imgSelector": [
+                "https://cf.shopee.vn/file/7af161ea0b48686df851a2b114b33a04",
+                "https://cf.shopee.vn/file/fc10e59216a73cd2e7c1cd62aa83896e",
+                "https://cf.shopee.vn/file/0e4b09ae162cc775b59336226735681e",
+                "https://cf.shopee.vn/file/4f81ce5660cea8831534e482aa7b1aae"
+            ],
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 100,
+            "sell": false
+        },
+        {
+            "id": 21,
+            "name": "ÁO THUN N Y LOGO LƯNG ĐEN TRẮNG",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 57000,
+            "img": "https://cf.shopee.vn/file/1957be4aaa94cf60af1b13de2daf7e28",
+            "imgSelector": [
+                "https://cf.shopee.vn/file/1957be4aaa94cf60af1b13de2daf7e28",
+                "https://cf.shopee.vn/file/4ef9553dec6d9c17a4dcfe266a7daaf2",
+                "https://cf.shopee.vn/file/fadbe526cd9ddc74c38a525a0607dc73",
+                "https://cf.shopee.vn/file/4ef9553dec6d9c17a4dcfe266a7daaf2"
+            ],
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 100,
+            "sell": false
+        },
+        {
+            "id": 22,
+            "name": "quần ống rộng suông nữ lưng cao khóa trước 1 khuy vải tuyết mưa.",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 57000,
+            "img": "https://cf.shopee.vn/file/5f58d89527105ce7dba1c4cf58d6e5f0",
+            "imgSelector": [
+                "https://cf.shopee.vn/file/5f58d89527105ce7dba1c4cf58d6e5f0",
+                "https://cf.shopee.vn/file/f692d40eab50ad6f827ca745afdeb537",
+                "https://cf.shopee.vn/file/7591fa3abfdbbe22e60e62149c18e2ff",
+                "https://cf.shopee.vn/file/1c748177cf9719bc52fcd6e294cf4d46"
+            ],
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 100,
+            "sell": false
+        },
+        {
+            "id": 23,
+            "name": "Quần baggy nam ống rộng vải hàn, quần tây âu nam co giãn thời trang OKU",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 57000,
+            "img": "https://cf.shopee.vn/file/bf02b005632a65f6472a280028817679",
+            "imgSelector": [
+                "https://cf.shopee.vn/file/bf02b005632a65f6472a280028817679",
+                "https://cf.shopee.vn/file/e673ead3c1ee0e077703cd2cc98b990b",
+                "https://cf.shopee.vn/file/c1141367fe71ce97d8b5510fde5c77a3",
+                "https://cf.shopee.vn/file/5aa424786b3863b2f0329f1e7fd7c347"
+            ],
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 100,
+            "sell": false
+        },
+        {
+            "id": 24,
+            "name": "Quần dài ống loe lưng cao màu sắc đơn giản dành cho nữ",
+            "color": "['Xanh', 'Đen', 'Xám']",
+            "size": "['S', 'L', 'X']",
+            "price": 57000,
+            "img": "https://cf.shopee.vn/file/0a45a1904442a1d997c34726a1bf8f8d",
+            "imgSelector": [
+                "https://cf.shopee.vn/file/0a45a1904442a1d997c34726a1bf8f8d",
+                "https://cf.shopee.vn/file/0a45a1904442a1d997c34726a1bf8f8d",
+                "https://cf.shopee.vn/file/d12259cc4e0cee35f64174451eb20f16",
+                "https://cf.shopee.vn/file/327ec8cccd9e4de99db45a1d457440e7"
+            ],
+            "like": 0,
+            "Evaluate": 0,
+            "quantlyti": 1,
+            "inventory": 100,
+            "sell": false
+        }
+    ],
+    "users": [
+      
+    ],
+    "orders": [],
+    "Comment": [],
+    "Star": [
+        {
+            "id": 1,
+            "productID": "3",
+            "UserID": 1,
+            "UserName": "123",
+            "start": 5
+        },
+        {
+            "id": 1,
+            "productID": "4",
+            "UserID": 1,
+            "UserName": "123",
+            "start": 5
+        },
+        {
+            "id": 3,
+            "productID": "5",
+            "UserID": 1,
+            "UserName": "123",
+            "start": 5
+        }
+    ]
+}
